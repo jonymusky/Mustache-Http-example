@@ -1,0 +1,16 @@
+{
+  "name": "MustacheExample",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "jonymusky",
+  "contributors": [],
+  "dependencies": {
+    "mu2": "^0.5.21"
+  }
+}

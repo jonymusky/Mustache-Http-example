@@ -1,0 +1,54 @@
+body {
+  background-color: #333;
+}
+header {
+  background-color: #543121;
+}
+header #logo{
+  text-align: center;
+}
+header .links {
+  text-align: center;
+  border: 1px dashed white;
+}
+header .links a {
+  color: white;
+  font-size: 18px;
+  margin: 10px;
+}
+header .links a:hover {
+  color: red;
+  font-size: 22px;
+}
+header #logo img {
+  border: 3px solid blue;
+}
+.articulos {
+   background-color: #fff;
+}
+.articulos .articulo {
+  border: 1px solid black;
+}
+.noticia .articulo {
+  color: black;
+  text-align: center;
+}
+.noticia .articulo a {
+  color: black;
+}
+.noticia .articulo h3 {
+  font-style: italic;
+}
+.noticia .articulo p {
+  font-size: 20px;
+}
+footer {
+  background-color: red;  
+}
+
+/* 
+Comments
+.     <--- class selector ej: .content
+#     <--- id selector ej: #articulos
+body  <--- element selector
+*/
